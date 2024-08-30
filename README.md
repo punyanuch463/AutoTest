@@ -17,8 +17,10 @@
 
 
 - ให้เราพิมพ์เข้าไปในหน้าดำๆ :
- **robot .\test.robot**  
-.\ --> เข้าหา path 
+ **robot .\test.robot**
+    
+.\ --> เข้าหา path
+
 test.robot ชื่อไฟล์เเละนามสกุลที่มี test case
 
 
