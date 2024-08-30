@@ -24,7 +24,7 @@
 test.robot ชื่อไฟล์เเละนามสกุลที่มี test case
 
 
-### ของ Robot AutomateTest เราสามารถเพิ่ม test ในนี้ได้เลย
+### ของ Robot AutomateTest เราสามารถเพิ่ม test ในรรดทัดนี้ได้เลย
 
 ```
 
@@ -41,5 +41,9 @@ Search using the keyword "Cheese"
     Submit Form
     ${title}=  Get Title
     Should Be Equal As Strings  ${title}  Cheese - ค้นหาด้วย Google
+
+test case 4 Search using the keyword "Blackpink"
+..... เพิ่มได้
+
 
 ```
